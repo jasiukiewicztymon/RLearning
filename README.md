@@ -7,3 +7,6 @@
 
 <p>Hi, my name is Tymon. Those days I was interested in the R programming and I want to share my knowledge with you by making this repository 😉. Here you have the <a>videos</a></p>
 
+## Summary
+
+1. [Introduction and variables](https://github.com/jasiukiewicztymon/RLearning/blob/main/%231/Variables.md)
