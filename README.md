@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
 </p>
 
-<p>Hi, my name is Tymon. Those days I was interested in the R programming and I want to share my knowledge with you by making this repository 😉. Here you have the <a>videos</a></p>
+<p>Hi, my name is Tymon. Those days I was interested in the R programming and I want to share my knowledge with you by making this repository 😉. Here you have the <a href="https://www.youtube.com/watch?v=ybb5clTk90M&list=PLSFOLF4KDRKM-JYW9aJwWfZpLE6sscpDs&ab_channel=TymonJasiukiewicz">videos</a>.</p>
 
 ## Summary
 
