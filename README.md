@@ -10,3 +10,4 @@
 ## Summary
 
 1. [Introduction and variables](https://github.com/jasiukiewicztymon/RLearning/blob/main/%231/Variables.md)
+2. [Data types](https://github.com/jasiukiewicztymon/RLearning/blob/main/%232/Data%20types.md)
