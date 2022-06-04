@@ -15,3 +15,4 @@
 4. [Conditions](https://github.com/jasiukiewicztymon/RLearning/blob/main/%234/Conditions.md)
 5. [Loops](https://github.com/jasiukiewicztymon/RLearning/blob/main/%235/Loops.md)
 6. [Functions](https://github.com/jasiukiewicztymon/RLearning/blob/main/%236/Functions.md)
+7. [Global and local variables](https://github.com/jasiukiewicztymon/RLearning/blob/main/%237/GlobalAndLocalVariables.md)
