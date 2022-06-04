@@ -14,3 +14,4 @@
 3. [Math](https://github.com/jasiukiewicztymon/RLearning/blob/main/%233/Math.md)
 4. [Conditions](https://github.com/jasiukiewicztymon/RLearning/blob/main/%234/Conditions.md)
 5. [Loops](https://github.com/jasiukiewicztymon/RLearning/blob/main/%235/Loops.md)
+6. [Functions](https://github.com/jasiukiewicztymon/RLearning/blob/main/%236/Functions.md)
