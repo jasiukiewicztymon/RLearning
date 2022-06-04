@@ -9,10 +9,10 @@
 
 ## Summary
 
-1. [Introduction and variables](https://github.com/jasiukiewicztymon/RLearning/blob/main/%231/Variables.md)
-2. [Data types](https://github.com/jasiukiewicztymon/RLearning/blob/main/%232/Data%20types.md)
-3. [Math](https://github.com/jasiukiewicztymon/RLearning/blob/main/%233/Math.md)
-4. [Conditions](https://github.com/jasiukiewicztymon/RLearning/blob/main/%234/Conditions.md)
-5. [Loops](https://github.com/jasiukiewicztymon/RLearning/blob/main/%235/Loops.md)
-6. [Functions](https://github.com/jasiukiewicztymon/RLearning/blob/main/%236/Functions.md)
-7. [Global and local variables](https://github.com/jasiukiewicztymon/RLearning/blob/main/%237/GlobalAndLocalVariables.md)
+1. [Introduction and variables](https://github.com/jasiukiewicztymon/RLearning/blob/main/Pages/%231/Variables.md)
+2. [Data types](https://github.com/jasiukiewicztymon/RLearning/blob/main/Pages/%232/Data%20types.md)
+3. [Math](https://github.com/jasiukiewicztymon/RLearning/blob/main/Pages/%233/Math.md)
+4. [Conditions](https://github.com/jasiukiewicztymon/RLearning/blob/main/Pages/%234/Conditions.md)
+5. [Loops](https://github.com/jasiukiewicztymon/RLearning/blob/main/Pages/%235/Loops.md)
+6. [Functions](https://github.com/jasiukiewicztymon/RLearning/blob/main/Pages/%236/Functions.md)
+7. [Global and local variables](https://github.com/jasiukiewicztymon/RLearning/blob/main/Pages/%237/GlobalAndLocalVariables.md)
