@@ -17,3 +17,4 @@
 6. [Functions](https://github.com/jasiukiewicztymon/RLearning/blob/main/Pages/%236/Functions.md)
 7. [Global and local variables](https://github.com/jasiukiewicztymon/RLearning/blob/main/Pages/%237/GlobalAndLocalVariables.md)
 8. [Vector](https://github.com/jasiukiewicztymon/RLearning/blob/main/Pages/%238/Vector.md)
+9. [List](https://github.com/jasiukiewicztymon/RLearning/blob/main/Pages/%239/Lists.md)
